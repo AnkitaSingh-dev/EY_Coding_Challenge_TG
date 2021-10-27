@@ -1,0 +1,11 @@
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.exe
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.deps.json
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.runtimeconfig.json
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.runtimeconfig.dev.json
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.dll
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\bin\Debug\netcoreapp3.1\EYCodingChallengeTG.pdb
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\obj\Debug\netcoreapp3.1\EYCodingChallengeTG.csprojAssemblyReference.cache
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\obj\Debug\netcoreapp3.1\EYCodingChallengeTG.AssemblyInfoInputs.cache
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\obj\Debug\netcoreapp3.1\EYCodingChallengeTG.AssemblyInfo.cs
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\obj\Debug\netcoreapp3.1\EYCodingChallengeTG.dll
+F:\Projects\EYCodingChallengeTG\EYCodingChallengeTG\obj\Debug\netcoreapp3.1\EYCodingChallengeTG.pdb
